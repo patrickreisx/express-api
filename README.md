@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Typhz/AuthAPI/">
-     <img src="valt.png" width="120" height=120">
+     <img src="vault.png" width="120" height=120">
   </a><br><br>
   AuthAPI
 </h1>
