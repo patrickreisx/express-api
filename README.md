@@ -2,7 +2,7 @@
   <a href="https://github.com/Typhz/AuthAPI/">
      <img src="vault.png" width="120" height=120">
   </a><br><br>
-  AuthAPI
+  BasicAPI
 </h1>
 <p align=center>Um modelo de API Rest para iniciar seus projetos!</p>                       
 <h1 align="center">
